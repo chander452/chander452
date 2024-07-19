@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chander452
-- 👀 I’m interested in 
+- 👀 I’m interested in research
 - 🌱 I’m currently learning VLSI design
 - 💞️ I’m looking to collaborate on analog design projects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me @ravibogam@gmail.com
+- 😄 Pronouns: ...RCB
 - ⚡ Fun fact: ...
 
 <!---
